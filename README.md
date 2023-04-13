@@ -24,3 +24,13 @@
   BMI = 60 / (2.8)
   BMI = 21.5
   BMI Categories: Normal Weight
+
+## Penilaian
+
+Penilaian akan dilakukan dari beberapa hal:
+
+1. Kode HTML, CSS, dan JavaScript yang terorganisasi dengan baik
+2. Logic yang sesuai dengan kebutuhan pada aplikasi
+3. Tampilan dan output sesuai dengan **Expected Result**
+4. Kemampuan peserta menggunakan Git & GitHub
+5. Kemampuan peserta dalam mendeploy aplikasi website
